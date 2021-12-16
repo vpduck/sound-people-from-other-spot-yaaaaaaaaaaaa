@@ -1,0 +1,33 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background:skyblue ;
+}
+button{
+  box-shadow:pink ;  
+}
+.main_div button{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    width:130px ;
+    font-weight:bolder ;
+    text-shadow:5px 5px 5px pink ;
+    letter-spacing:3px ;
+}
+.copy_right_footer{
+    position: fixed;
+    color:pink;
+    bottom:0;
+    width:100px;
+    font-size:18px ;
+    background-color:skyblue ;
+    line-height:3 ;
+    text-align: center;
+    text-shadow:pink ;
+}
+p{
+color: hotpink;
+}
+h{
+    color: hotpink;
+}
